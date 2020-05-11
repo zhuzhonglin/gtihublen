@@ -1,4 +1,4 @@
-import pygame,sys
+import pygame,sys，time
 from pygame.locals import *
 
 pygame.init() #初始化
